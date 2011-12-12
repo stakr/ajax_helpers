@@ -1,8 +1,8 @@
-== Ajax Helpers
+# Ajax Helpers
 
 Written by Jan Sebastian Siwy
 
-Source: https://svn.stakr.de/rails/plugins/ajax_helpers
+Source: https://github.com/stakr/ajax_helpers
 
 ...
 
